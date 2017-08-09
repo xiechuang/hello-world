@@ -1,3 +1,3 @@
 "this is a test"
-print("this is hello2.py")
 "this is another test"
+"this is the third test"
